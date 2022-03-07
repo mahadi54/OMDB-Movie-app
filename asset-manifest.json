@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/OMDB-Movie-app/static/css/main.58e1373c.css",
+    "main.js": "/OMDB-Movie-app/static/js/main.a07bae71.js",
+    "index.html": "/OMDB-Movie-app/index.html",
+    "static/media/search.svg": "/OMDB-Movie-app/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.58e1373c.css.map": "/OMDB-Movie-app/static/css/main.58e1373c.css.map",
+    "main.a07bae71.js.map": "/OMDB-Movie-app/static/js/main.a07bae71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58e1373c.css",
+    "static/js/main.a07bae71.js"
+  ]
+}
